@@ -1,4 +1,8 @@
 .button{
-    padding: 30 px;
-    
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    background-color: chartreuse;
+    font-size: larger;
 }

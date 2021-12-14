@@ -1,11 +1,12 @@
 .button{
     display: block;
     margin-left: auto;
-    margin-top: 50 px;
+    margin-top: 20%;
     margin-right: auto;
     width: 40%;
     padding: 10px;
     background-color: chartreuse;
     text-align: center;
     font-size: larger;
+    text-decoration: none;
 }
